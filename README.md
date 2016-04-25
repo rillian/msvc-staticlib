@@ -1,4 +1,4 @@
-== MSVC static library example ==
+# MSVC static library example
 
 This is an experiment to see if transitive dependencies in
 Windows (MSVC ABI) static libraries are possible.
