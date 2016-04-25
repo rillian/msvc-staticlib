@@ -1,6 +1,6 @@
 # Build description for nmake
 
-main: main.obj bar.lib
+main.exe: main.obj bar.lib
 	link /out:$@ $<
 
 foo.lib: foo.obj
